@@ -5,7 +5,7 @@ the top-performing architecture achieves accuracy rates of 80%, 85%, and 47% on 
 
 # Citation
 
-If you find our Benchmark useful, please cite our paper:
+If you find our Benchmark useful, please cite our paper "Neural Architecture Search for Text Classification With Limited Computing Resources Using Efficient Cartesian Genetic Programming":
 ```
 @article{wu_neural_2023,
 title = {Neural Architecture Search for Text Classification with Limited Computing Resources Using Efficient Cartesian Genetic Programming},
